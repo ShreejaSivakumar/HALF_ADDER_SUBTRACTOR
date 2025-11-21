@@ -92,18 +92,30 @@ RegisterNumber: 25017561 */
 
 **RTL Schematic**
 
+
+
 HALF ADDER
+
+
 ![Screenshot_21-11-2025_202429_](https://github.com/user-attachments/assets/2251faec-41f9-4add-b433-adaacd33f069)
 
 HALF SUBTRACTOR
+
+
 <img width="605" height="327" alt="Screenshot 2025-11-21 202737" src="https://github.com/user-attachments/assets/c367e2f6-124e-4d72-92b2-e7df47559614" />
 
 
 **Output/TIMING Waveform**
+
+
 HALF ADDER
+
+
 ![Screenshot_21-11-2025_203121_](https://github.com/user-attachments/assets/3e47cd36-3681-4cfb-8d98-df9e8ae00f72)
 
 HALF SUBTRACTOR
+
+
 <img width="667" height="277" alt="Screenshot 2025-11-21 202704" src="https://github.com/user-attachments/assets/b0c6f82e-16f8-42c8-9493-83b577a9e177" />
 
 
