@@ -90,6 +90,8 @@ endmodule
 Developed by: SHREEJA R S
 RegisterNumber: 25017561 */
 
+
+
 **RTL Schematic**
 
 
@@ -98,6 +100,7 @@ HALF ADDER
 
 
 ![Screenshot_21-11-2025_202429_](https://github.com/user-attachments/assets/2251faec-41f9-4add-b433-adaacd33f069)
+
 
 HALF SUBTRACTOR
 
@@ -113,6 +116,7 @@ HALF ADDER
 
 ![Screenshot_21-11-2025_203121_](https://github.com/user-attachments/assets/3e47cd36-3681-4cfb-8d98-df9e8ae00f72)
 
+
 HALF SUBTRACTOR
 
 
@@ -120,8 +124,16 @@ HALF SUBTRACTOR
 
 
 **Result:**
-     Thus, the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
+      Thus, the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+
+
+
+
+
+
+
+......--
 
 
 
