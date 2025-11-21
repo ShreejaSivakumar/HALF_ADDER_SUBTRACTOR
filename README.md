@@ -112,15 +112,41 @@ HALF SUBTRACTOR
 **Result:**
       Thus, the Full Adder and Full Subtractor circuits are designed and the truth tables is verified using Quartus software.
 
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
+.
 
+..
 
+..
 
-
-
-
-
-......--
-
+.
+.
+.
+.
+.
+.
 
 
      
